@@ -12,7 +12,7 @@ body{
 }
 
 .conteinerCategory{
-    margin: 40px;
+    margin: 10%;
 }
 
 .conteinerGalery{
@@ -24,8 +24,8 @@ body{
 }
 .conteinerGalery img{
     display: flex;
-    width: 300px;
-    height: 300px;
+    width: 20vw;
+    height: 20vw;
     object-fit: contain;
     flex-wrap: wrap;
     border: 2px solid black;
@@ -45,8 +45,9 @@ body{
 
 
 #root input{
-    height: 30px;
-    font-size: 20px;
+    width: 70vw;
+    height: 3vh;
+    font-size: 100%;
 
 }
 

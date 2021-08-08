@@ -26,8 +26,7 @@ export const AddCategory = ({setCategories}) => {
             type="text"
             value={ inputValue }
             onChange={ handleInputChange }
-            placeholder="Busque aqui una categoria"
-            size="100" 
+            placeholder="Busque aqui una categoria" 
             />
         </form>
         </div>
