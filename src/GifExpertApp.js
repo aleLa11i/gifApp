@@ -10,7 +10,7 @@ export const GifExpertApp = ()=>{
     const [categories, setcategories] = useState([""]);
 
     return (<>
-            <h2 class="Title">Aplicacion de Ale Lalli para buscar Gifs ahre</h2>
+            <h2 class="Title">Aplicacion de Alesandro Lalli para buscar Gifs</h2>
             < AddCategory setCategories={ setcategories } />
             <hr />   
             {
